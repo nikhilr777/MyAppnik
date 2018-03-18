@@ -1,0 +1,319 @@
+    1  cd desktop/Shell
+    2  vagrant up
+    3  ls 
+    4  vagrant up
+    5  vagrant ssh 
+    6  vagrant --version 
+    7  ls
+    8  ls
+    9  cd Downloads/
+   10  ls
+   11  ssh -i "awschefserver.pem" ec2-user@ec2-18-216-183-224.us-east-2.compute.amazonaws.com
+   12  ssh -i "awschefserver.pem" ec2-user@ec2-18-216-183-224.us-east-2.compute.amazonaws.com
+   13  ssh -i "awschefserver.pem" nikhil@ec2-18-216-183-224.us-east-2.compute.amazonaws.com
+   14  ssh -i "awschefserver.pem" nikhil@ec2-18.216.183.224
+   15  ssh -i "awschefserver.pem" nikhil@18.216.183.224
+   16  ls
+   17  ssh -i "awschefserver.pem" ec2-user@ec2-18-216-183-224.us-east-2.compute.amazonaws.com
+   18  ssh -i "awschefserver.pem" ec2-user@ec2-18-216-183-224.us-east-2.compute.amazonaws.com
+   19  ssh -i "awschefserver.pem" nikhil@ec2-18.216.183.224.us-east-2.compute.amazonaws.com
+   20  ssh -i "awschefserver.pem" nikhil@18.216.183.224.us-east-2.compute.amazonaws.com
+   21  su
+   22  ssh -i "awschefserver.pem" ec2-user@ec2-18-216-183-224.us-east-2.compute.amazonaws.com
+   23  ssh -i "awschefserver.pem" nikhil@18.216.183.224.us-east-2.compute.amazonaws.com
+   24  ssh -i "awschefserver.pem" nikhil@18.216.183.224.us-east-2.compute.amazonaws.com
+   25  ls
+   26  cd ..
+   27  ls
+   28  cd
+   29  pwd
+   30  cd C:\Users\NIKHIL REMALLI\Downloads
+   31  ls
+   32  cd Downloads/
+   33  ssh -i "awschefserver.pem" ec2-user@ec2-18-216-183-224.us-east-2.compute.amazonaws.com
+   34  ssh -i "awschefserver.pem" nikhil@18.216.183.224.us-east-2.compute.amazonaws.com
+   35  cu
+   36  su
+   37  ssh -i "awschefserver.pem" nikhil18.216.183.224.us-east-2.compute.amazonaws.com
+   38  ssh -i "awschefserver.pem" nikhil@18.216.183.224.us-east-2.compute.amazonaws.com
+   39  su
+   40  ssh -i "awschefserver.pem" ec2-user@18.216.183.224.us-east-2.compute.amazonaws.com
+   41  ssh -i "awschefserver.pem" ec2-user@18.216.183.224
+   42  ssh -i "awschefserver.pem"ec2-user-18.216.183.224.us-east-2.compute.amazonaws.com
+   43  ssh -i "awschefserver.pem" ec2-user@18.216.183.224
+   44  ssh -i "awschefserver.pem" ec2-user@18.216.183.224
+   45  su 
+   46  ls
+   47  clear
+   48  pwd
+   49  cd /c/Users/NIKHIL\ REMALLI/Downloads/
+   50  ssh -i "awschefserver.pem" ec2-user@18.216.183.224
+   51  ssh -i "myNewkeypaiar.pem" ubuntu@ec2-34-229-126-23.compute-1.amazonaws.com
+   52  pwd
+   53  cd /c/Users/NIKHIL REMALLI
+   54  cd Downloads/
+   55  ssh -i "myNewkeypaiar.pem" ubuntu@ec2-34-229-126-23.compute-1.amazonaws.com
+   56  pwd
+   57  cd Downloads/
+   58  ssh -i "myNewkeypaiar.pem" ubuntu@ec2-34-229-126-23.compute-1.amazonaws.com
+   59  ls
+   60  cd Downloads/
+   61  ssh -i "myKey.pem" ubuntu@ec2-54-197-0-225.compute-1.amazonaws.com
+   62  ls
+   63  cd Downloads/
+   64  ssh -i "myKey.pem" ubuntu@ec2-54-197-0-225.compute-1.amazonaws.com
+   65  clear
+   66  pwd
+   67  ssh -i "myKey.pem" ec2-user@ec2-54-227-180-99.compute-1.amazonaws.com
+   68  ls
+   69  cd Downloads/
+   70  clear
+   71   Recent@
+   72  ssh -i "myKey.pem" ec2-user@ec2-54-227-180-99.compute-1.amazonaws.com
+   73  cd Downloads/
+   74  ssh -i "myKey.pem" ec2-user@ec2-54-227-180-99.compute-1.amazonaws.com
+   75  cd D
+   76  cd Downloads/
+   77  ssh -i "myKey.pem" ec2-user@ec2-54-227-180-99.compute-1.amazonaws.com
+   78  cd ,,
+   79  pwd
+   80  cd /
+   81  pwd
+   82  ls
+   83  cd 
+   84  pwd 
+   85  cd ..
+   86  cd ..
+   87  cd tomcat7/
+   88  cd ..
+   89  pwd
+   90  pwd
+   91  scp -i C:\Users\NIKHIL REMALLI\Downloads -r tomcat7/ ec2-54-227-180-99.compute-1.amazonaws.com
+   92  scp -i C:\Users\NIKHIL REMALLI\Downloads -r tomcat7/ ec2-54-227-180-99.compute-1.amazonaws.com:/ home/ec2-user
+   93  scp -i C:\Users\NIKHIL REMALLI\Downloads\myKey.pem -r tomcat7/ ec2-54-227-180-99.compute-1.amazonaws.com:/ home/ec2-user
+   94  scp -i C:\Users\NIKHIL REMALLI\Downloads -r tomcat7/ ec2-54-227-180-99.compute-1.amazonaws.com:/ home/ec2-user
+   95  ssh -i "myKey.pem" ec2-user@ec2-54-227-180-99.compute-1.amazonaws.com
+   96  cd D
+   97  pwd
+   98  cd ~
+   99  pwd
+  100  cd ..
+  101  cd ..
+  102  cd Dow
+  103  pwd
+  104  cd
+  105  pwd
+  106  cd Downloads/
+  107  ssh -i "myKey.pem" ec2-user@ec2-54-227-180-99.compute-1.amazonaws.com
+  108  cd C
+  109  pwd
+  110  cd Downloads/
+  111  cd ..
+  112  pwd
+  113  cd ..
+  114  cd ..
+  115  pwd
+  116  scp -i C:\Users\NIKHIL REMALLI\Downloads\myKey.pem -r tomcat7/ ec2-user@ec2-54-227-180-99.compute-1.amazonaws.com; /home/
+  117  scp -i C:\Users\NIKHIL REMALLI\Downloads\myKey.pem -r tomcat7/ ec2-user@ec2-54-227-180-99.compute-1.amazonaws.com:/home/ec2-user
+  118  cd
+  119  pwd
+  120  cd Downloads/
+  121  ssh -i "myKey.pem" ec2-user@ec2-54-227-180-99.compute-1.amazonaws.com
+  122  clear
+  123  pwd
+  124  cd Downloads/
+  125  ssh -i "Key.pem" ubuntu@ec2-54-159-82-139.compute-1.amazonaws.com
+  126  pwd
+  127  cd Downloads/
+  128  ssh -i "Key.pem" ubuntu@ec2-54-159-82-139.compute-1.amazonaws.com
+  129  clear
+  130  pwd
+  131  clear
+  132  ssh -i "Key.pem" ubuntu@ec2-54-159-82-139.compute-1.amazonaws.com
+  133  ssh -i "Key.pem" ubuntu@ec2-54-159-82-139.compute-1.amazonaws.com
+  134  ip comfig 
+  135  clear
+  136  ssh -i "Key.pem" ubuntu@ec2-54-159-82-139.compute-1.amazonaws.com
+  137  exit
+  138  cd Downloads/
+  139  ssh -i "Key.pem" ubuntu@ec2-34-230-20-134.compute-1.amazonaws.com
+  140  cd Downloads/
+  141  ssh -i "Key.pem" ubuntu@ec2-34-230-20-134.compute-1.amazonaws.com
+  142  ls
+  143  cd
+  144  cd Downloads/
+  145  scp -i Key.pem 
+  146  scp -i Key.pem C:\tomcat7 ec2-34-230-20-134.compute-1.amazonaws.com:/home/user
+  147  scp -i Key.pem C:\tomcat7 ubuntu@ec2-34-230-20-134.compute-1.amazonaws.com:/home/user
+  148  scp -i Key.pem C:tomcat7 ubuntu@ec2-34-230-20-134.compute-1.amazonaws.com:/home/user
+  149  scp -i Key.pem C:tomcat7.zip ubuntu@ec2-34-230-20-134.compute-1.amazonaws.com:/home/user
+  150  scp -i Key.pem C:tomcat7 ubuntu@ec2-34-230-20-134.compute-1.amazonaws.com:/home/user
+  151  scp -i Key.pem c:tomcat7 ubuntu@ec2-34-230-20-134.compute-1.amazonaws.com:/home/user
+  152  scp -i Key.pem C:tomcat7.zip  ubuntu@ec2-34-230-20-134.compute-1.amazonaws.com:/home/user
+  153  sudo scp -i Key.pem C:tomcat7.zip  ubuntu@ec2-34-230-20-134.compute-1.amazonaws.com:/home/user
+  154  scp -i Key.pem C:tomcat7 ubuntu@ec2-34-230-20-134.compute-1.amazonaws.com:/home/user
+  155  scp -i Key.pem C:\tomcat7 ubuntu@ec2-34-230-20-134.compute-1.amazonaws.com:/home/user
+  156  pwd
+  157  scp -i Key.pem /c/tomcat7/ ubuntu@ec2-34-230-20-134.compute-1.amazonaws.com:/home/user
+  158  scp -i Key.pem /c/tomcat7 ubuntu@ec2-34-230-20-134.compute-1.amazonaws.com:/home/user
+  159  scp -i Key.pem  -r /c/tomcat7 ubuntu@ec2-34-230-20-134.compute-1.amazonaws.com:/home/ubuntu
+  160  ssh -i "Key.pem" ubuntu@ec2-34-230-20-134.compute-1.amazonaws.com
+  161  ssh -i "Key.pem" ubuntu@ec2-34-230-20-134.compute-1.amazonaws.com
+  162  c;ear 
+  163  clear 
+  164  pwd
+  165  ssh -i "Key.pem" ubuntu@ec2-54-159-82-139.compute-1.amazonaws.com
+  166  ocker 
+  167  clear
+  168  ssh -i "K.pem" ec2-user@ec2-107-23-189-102.compute-1.amazonaws.com
+  169  clear
+  170  ssh -i "Key.pem" ubuntu@ec2-54-159-82-139.compute-1.amazonaws.com
+  171  cd Downloads/
+  172  ssh -i "Key.pem" ubuntu@ec2-54-159-82-139.compute-1.amazonaws.com
+  173  cd Downloads/
+  174  ssh -i "Key.pem" ubuntu@ec2-54-159-82-139.compute-1.amazonaws.com
+  175  clear
+  176  ssh -i "Key.pem" ubuntu@ec2-54-159-82-139.compute-1.amazonaws.com
+  177   cd Downloads/
+  178  ssh -i "Key.pem" ubuntu@ec2-54-159-82-139.compute-1.amazonaws.com
+  179  ls
+  180  ssh -i "Key.pem" ubuntu@ec2-54-159-82-139.compute-1.amazonaws.com
+  181  cd Downloads/
+  182  ssh -i "Key.pem" ubuntu@ec2-54-159-82-139.compute-1.amazonaws.com
+  183  cd Downloads/
+  184  ssh -i "Key.pem" ubuntu@ec2-107-21-194-0.compute-1.amazonaws.com
+  185  cd D
+  186  cd Downloads/
+  187  ssh -i "Key.pem" ubuntu@ec2-107-21-194-0.compute-1.amazonaws.com
+  188  pwd
+  189  cd ..
+  190  cd Desktop
+  191  mkdir gitTest
+  192  cd gitTest/
+  193  git init 
+  194  ls
+  195  git clone https://github.com/nremalli/myrepo-.git
+  196  git status
+  197  git checkout -b nikhil/testing
+  198  git status
+  199  git add gitter.txt 
+  200  git commit -m "tester1"
+  201  git status
+  202  git push 
+  203  git push origin
+  204   git push --set-upstream origin nikhil/testing
+  205   git push --set-upstream origin master
+  206  git checkout -b master
+  207   git push --set-upstream origin master
+  208   git push --set-upstream origin 
+  209  git clone https://github.com/nremalli/nikhil.git
+  210  git status
+  211  cd nikhil/
+  212  git status
+  213  git add gitter.txt 
+  214  git checkout -b nikhil/test
+  215  git commit -m "tester1"
+  216   git push --set-upstream origin nikhil/test
+  217   git push --set-upstream origin nikhil/test
+  218  cd Desktop
+  219  cd gitTest/
+  220  ls
+  221  cd MyApp-nik/
+  222  touch sample.java 
+  223  tocch sample1.txt
+  224  touch sample1.txt
+  225  vi sample.java 
+  226  git init 
+  227  git config --global user.name 'nremalli'
+  228  git config --global user.email 'remallinikhil7@gmail.com'
+  229  ls
+  230  git status 
+  231  git add samplemple.java
+  232  git status 
+  233  git add sample.java
+  234  git add sample1.txt
+  235  git status 
+  236  git rm --cached sample.java 
+  237  git status 
+  238  git add .
+  239  git status 
+  240  vi sample.java
+  241  git status 
+  242  git add .
+  243  git status
+  244  git commit 
+  245  git commit 
+  246  git status
+  247  clear
+  248  ls
+  249  vi sample.txt
+  250  clear
+  251  git status 
+  252  git add .
+  253  git status 
+  254  git commit -m "this is the added one "
+  255  git status 
+  256  clear
+  257  touch .gitignore 
+  258  ls
+  259  vi log.txt
+  260  ls
+  261  vi .gitignore
+  262  git status 
+  263  vi .gitignore 
+  264  git status 
+  265  mkdir test1
+  266  cd mkdir 
+  267  ls
+  268  cd test1/
+  269  cd ..
+  270  mkdir test 2
+  271  ls
+  272  cd test/
+  273  vi test.txt
+  274  ls
+  275  cd ..
+  276  ls
+  277  cd test1/
+  278  vi test1.txt
+  279  ls
+  280  cd ..
+  281  ls
+  282  git status 
+  283  vi .gitignore 
+  284  git status 
+  285  cat .gitignore 
+  286  clear
+  287  git status 
+  288  git add .
+  289  git staus 
+  290  git commit 
+  291  git commit -m "THis is the work done "
+  292  git branch login
+  293  git status 
+  294  git checkout login
+  295  git status 
+  296  ls
+  297  clear
+  298  vi login.txt
+  299  git status 
+  300  git add login.txt 
+  301  git commit -m "This was adde n=by the logging branch "
+  302  git status 
+  303  clear
+  304  git checkout master
+  305  ls
+  306  git checkout login
+  307  ls
+  308  git checkout master
+  309* 
+  310  git merge login
+  311  git checkout master
+  312  git merge login 
+  313  ls
+  314  git remote add origin https://github.com/nremalli/MyAppnik.git
+  315  git remote
+  316  git push -u origin master 
+  317  clear
+  318  history 
+  319  history > command.txt
